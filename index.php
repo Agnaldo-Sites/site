@@ -10,6 +10,7 @@
 
 <body>
     <div class="card-login">
+        <h1>Ola </h1>
         <div class="card-login2">
             <h1 class="MeuNome" style="color: white; line-height: 1;text-align: center;"><span style="color: rgb(255, 38, 0); padding-left: 0px;">Login</span></h1>
             <div class="textfield">
@@ -26,9 +27,6 @@
             </div>
             <button class="btn-login">Entrar</button>
         </div>
-    </div>
-    <div class="imgea">
-        <img class="img" src="https://i.pinimg.com/originals/12/5f/67/125f6731ffaa722d9377bec81f83dea5.gif" alt="img">
     </div>
 </body>
 
